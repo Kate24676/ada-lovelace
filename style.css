@@ -15,3 +15,10 @@ header {
     padding-top: 14px;
     height: 17px;
 }
+
+.sidebar {
+    background-color: #fdfdfd;
+    width: 30%;
+    min-width: 300px;
+    max-width: 320px;
+}
