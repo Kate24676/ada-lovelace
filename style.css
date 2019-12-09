@@ -11,4 +11,7 @@
 header {
     background-color: greenyellow;
     text-align: center;
+    border-bottom: 1px solid #b49494;
+    padding-top: 14px;
+    height: 17px;
 }
