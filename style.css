@@ -1,7 +1,14 @@
 .my-picture {
     display: inline;
+    height: 60px;
 }
 
 .title {
     display: inline-block;
+    vertical-align: top;
+}
+
+header {
+    background-color: greenyellow;
+    text-align: center;
 }
