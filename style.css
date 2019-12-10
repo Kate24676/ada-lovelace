@@ -47,3 +47,12 @@ ul.social-media {
         border-left: 7px solid #b0afc0;
         padding-left: 10px;        
     }
+
+    .social-media li a:hover {
+        border-left-color: #a26cd2;
+    }
+    .sidebar strong {
+        margin-left: 36px;
+        color: #4c4066;
+        font-size: 19px;
+    }
