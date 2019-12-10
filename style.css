@@ -33,3 +33,17 @@ ul.social-media {
     margin-left: 10px;
     padding-left: 20px;
   }
+
+  .social-media li {
+      border-bottom: 1px solid #b0afc0;
+      padding: 10px;
+      width: 200px;
+    }
+
+    .social-media li a {
+        color: grey;
+        text-decoration: none;
+        text-shadow: 1px 0px #ffffff;
+        border-left: 7px solid #b0afc0;
+        padding-left: 10px;        
+    }
