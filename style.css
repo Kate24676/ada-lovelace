@@ -27,3 +27,9 @@ header {
     margin-top: 55px;
     margin-left: 20px;
 }
+
+ul.social-media {
+    list-style: none;
+    margin-left: 10px;
+    padding-left: 20px;
+  }
