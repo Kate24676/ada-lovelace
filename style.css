@@ -26,6 +26,8 @@ header {
     border: 1px solid;
     margin-top: 55px;
     margin-left: 20px;
+    border-radius: 6px;
+    box-shadow: 0 1px 1px;
 }
 
 ul.social-media {
