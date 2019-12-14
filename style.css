@@ -1,28 +1,21 @@
 .title {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
     vertical-align: top;
-}
-
-header {
-    background-color: greenyellow;
-    text-align: center;
-    border-bottom: 1px solid #b49494;
-    padding-top: 14px;
-    height: 17px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .sidebar {
-    background-color: #fdfdfd;
     width: 30%;
     min-width: 300px;
     max-width: 320px;
-    display: inline-block;
+    float: right;
     padding: 25px 30px;
     border: 1px solid;
-    margin-top: 55px;
-    margin-left: 20px;
+    margin: 0px 20% 0px 0px;
     border-radius: 6px;
     box-shadow: 0 1px 1px;
+    background-color: #fdfdfd;
 }
 
 ul.social-media {
@@ -66,7 +59,18 @@ ul.social-media {
         color: darkred;
         margin-top: 40px;
         margin-bottom: 40px;
+        width: 30%;
+        min-width: 300px;
+        max-width: 320px;
+        float: right;
+        padding: 25px 30px;
+        border: 1px solid;
+        margin: 0px 20% 0px 0px;
+        border-radius: 6px;
+        box-shadow: 0 1px 1px;
+        background-color: #fdfdfd;
     }
+    
 
     .poem {
         font-style: italic;
@@ -78,3 +82,8 @@ ul.social-media {
         width: 500px;
         height: 300px;
     }
+
+    .main {
+        font-size: medium;
+    }
+
